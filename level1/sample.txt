@@ -1,0 +1,5 @@
+The new Git status
+Never miss a thing. Stay on top of your work and up to date with your code at a glance.
+
+Visualize your progress
+Detailed branching diagrams make it easy to keep up with your team's progress.
